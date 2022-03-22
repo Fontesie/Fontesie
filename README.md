@@ -1,9 +1,4 @@
-<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-</style>
+
 
 
 <body>
