@@ -10,7 +10,6 @@ Skills: Python / C++ & CSharp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fontesie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fontesie)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
