@@ -1,4 +1,15 @@
-### Hi there 👋, my name is  Fontesie
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+
+
+<body>
+<div class="content">
+
+### Hi 👋, my name is  Fontesie and i'm French 
 ![](https://profile-counter.glitch.me/Fontesie/count.svg)
 
 
@@ -10,6 +21,8 @@ Skills: Python / C++ & CSharp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fontesie)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 
+</body>
 
