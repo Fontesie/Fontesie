@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is  Fontesie
-![](https://profile-counter.glitch.me/Fa/count.svg)
+![](https://profile-counter.glitch.me/Fontesie/count.svg)
 
 
 Skills: Python / C++ & CSharp
